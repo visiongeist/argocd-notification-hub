@@ -1,10 +1,11 @@
 {
-  "name": "argocd-notification-hub",
+  "name": "@visiongeist/argocd-notification-hub",
   "version": "0.0.1",
   "description": "ArgoCD notification hub",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "exit 0"
   },
   "dependencies": {
     "express": "4.19.2"
