@@ -1,0 +1,22 @@
+{
+  "name": "argocd-notification-hub",
+  "version": "0.0.1",
+  "description": "ArgoCD notification hub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.19.2"
+  },
+  "engines": {
+    "node": "20.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/visiongeist/argocd-notification-hub"
+  },
+  "keywords": [],
+  "author": "Damien Antipa",
+  "license": "MIT"
+}
