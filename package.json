@@ -1,6 +1,6 @@
 {
   "name": "@visiongeist/argocd-notification-hub",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ArgoCD notification hub",
   "main": "index.js",
   "scripts": {
