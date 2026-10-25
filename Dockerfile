@@ -1,4 +1,5 @@
-FROM node:20
+# Node 22.23.4 replaces EOL Node 20; verify the image binary before deployment.
+FROM node:22.23.4-bookworm
 
 # Set the working directory in the container
 WORKDIR /
